@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+}
+
+/* Header */
+.header {
+    background: #4a5cff;
+    color: white;
+    text-align: center;
+    padding: 25px 10px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+/* Button container */
+.buttons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    gap: 25px;
+}
+
+/* Buttons */
+.lang-btn {
+    background: #5161ff;
+    color: white;
+    padding: 15px 40px;
+    font-size: 22px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    transition: 0.2s;
+}
+
+.lang-btn:hover {
+    transform: scale(1.05);
+    background: #3749f8;
+}
+
+/* Middle row (Türkmen – Русский) */
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}

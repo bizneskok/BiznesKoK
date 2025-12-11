@@ -1,10 +1,3 @@
-Hawa, iň aňsat ýol — men saňa taýýar teksti berýän, sen bolsa şu ýerde bar zatlaryň hemmesini pozup, aşakdaky doly teksti goýmalysyň.
-
-📌 KOPÝA ET — DOLY GOÝ (hiç zat üýtgetme):
-
-
----
-
 BiznesKoK
 
 BiznesKoK — telekeçiler bilen maýa goýujylary birleşdirýän köp dilli (Türkmen / Rus / English) web platforma.
@@ -52,6 +45,3 @@ UI Primary Color: #4A50E2
 👨‍💻 Developer
 
 BiznesKoK — resmi açyk çeşme proýekti.
-
-
-
